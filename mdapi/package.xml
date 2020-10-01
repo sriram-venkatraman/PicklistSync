@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Picklist Sync</fullName>
+    <types>
+        <members>GetPicklistValues</members>
+        <members>PickListResource</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Picklists_to_Sync__mdt.Active__c</members>
+        <members>Picklists_to_Sync__mdt.Field_Name__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Picklists_to_Sync.Account_FinServ_CountryOfBirth_pc</members>
+        <members>Picklists_to_Sync.Account_FinServ_PersonalInterests_c</members>
+        <members>Picklists_to_Sync.Account_Industry</members>
+        <members>Picklists_to_Sync.Account_Rating</members>
+        <members>Picklists_to_Sync.Account_Type</members>
+        <members>Picklists_to_Sync.Case_Origin</members>
+        <members>Picklists_to_Sync.Case_Reason</members>
+        <members>Picklists_to_Sync.Case_Status</members>
+        <members>Picklists_to_Sync.Contact_FinServ_PrimaryLanguage_c</members>
+        <name>CustomMetadata</name>
+    </types>
+    <types>
+        <members>Picklists_to_Sync__mdt</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Picklists_to_Sync__mdt-Picklists to Sync Layout</members>
+        <name>Layout</name>
+    </types>
+    <version>48.0</version>
+</Package>
